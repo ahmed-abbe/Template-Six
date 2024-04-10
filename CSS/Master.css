@@ -864,7 +864,7 @@ section.slider .wrapper .images .image .container .buttons button:first-of-type 
 /* Start Rates Section */
 .rates {
   padding-block: 60px;
-  background-image: url("Images/bread-bg.jpg");
+  background-image: url("../Images/bread-bg.jpg");
   background-size: cover;
   position: relative;
 }
@@ -1089,7 +1089,7 @@ section.slider .wrapper .images .image .container .buttons button:first-of-type 
 /* Start Call Section */
 .call {
   padding-block: 80px;
-  background-image: url("Images/call-bg.jpg");
+  background-image: url("../Images/call-bg.jpg");
   background-size: cover;
   background-attachment: fixed;
   text-align: center;
@@ -1451,7 +1451,7 @@ section.slider .wrapper .images .image .container .buttons button:first-of-type 
 /* Start Brands Section */
 .brands {
   padding-block: 80px;
-  background-image: url("Images/client-bg.jpg");
+  background-image: url("../Images/client-bg.jpg");
   background-size: cover;
   position: relative;
 }
